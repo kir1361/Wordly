@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Kirill\Desktop\Cursova\Cursova\Source.cpp(94,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kirill\Desktop\Cursova\Cursova\Source.cpp(227,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Cursova.vcxproj -> C:\Users\Kirill\Desktop\Cursova\x64\Debug\Cursova.exe

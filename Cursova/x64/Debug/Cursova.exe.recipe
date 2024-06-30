@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Kirill\Desktop\Cursova\x64\Debug\Cursova.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Kirill\Desktop\Cursova\Cursova\resource1.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Kirill\Desktop\Cursova\Cursova\Cursova.rc</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Desktop\Xicon1.ico</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
